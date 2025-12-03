@@ -1,7 +1,7 @@
 ## Hi there 👋
 This is Adarniel
 
-#Current Skillset 
+## Current Skillset
 -Programming Languages: Python, Java, C, net sockets and basic shell Scripting in linux 
 -platforms: Linux, Windows
 
