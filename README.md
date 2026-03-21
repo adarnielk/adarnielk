@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 This is Adarniel
 
 ## Current Skillset
@@ -6,6 +6,6 @@ This is Adarniel
 - platforms: Linux, Windows
 
 ## Info
-- 🔭 I’m currently working on web applications, physics engine and few development projects 
-- 🌱 I’m currently learning java,c#,python and sql
-- ⚡ Fun fact: I find music, art and their process intreguing.   
+-  I’m currently working on web applications, physics engine and few development projects 
+-  I’m currently learning java,c#,python and sql
+-  I find music, art and their process intreguing.   
