@@ -7,5 +7,5 @@ This is Adarniel
 
 ## Info
 - 🔭 I’m currently working on web applications, physics engine and few development projects 
-- 🌱 I’m currently learning rust, java, GO
+- 🌱 I’m currently learning java,c#,python and sql
 - ⚡ Fun fact: I find music, art and their process intreguing.   
